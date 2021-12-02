@@ -1,0 +1,9 @@
+root@CHN-dnode-1:~/A# git push --set-upstream gowtham master
+Username for 'https://github.com': gowtham8688 
+Password for 'https://gowtham8688@github.com': 
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 257 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/gowtham8688/gowtham8688.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from gowtham.
